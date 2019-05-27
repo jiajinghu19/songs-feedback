@@ -1,6 +1,6 @@
 # songs-feedback
 
-Thank Arthur for preparing this wonderful list of songs! I really enjoyed listening to them. They remind me of the happy times when I was in middle school. Here is my feedbacks. Each song is ranked in scale 1-5 in terms of rhythm and lyrics.
+Thank Arthur for preparing this wonderful list of songs! I really enjoyed listening to them. They remind me of the happy times when I was in middle school. Here is my feedbacks. Each song is ranked in scale 1-5 in terms of rhythm and lyrics. I really enjoyed all of them, but to force variety I have to give some 1s or 2s. In the first couple of weeks, I let spotify shuffle played the list and then I listend and watched the lyrics in the order you gave me, just to make sure no song is being left behind. It was not surprising that I favor the songs that got picked by spotify more often.
 
 5 - Abosolutely love
 
@@ -20,21 +20,21 @@ Thank Arthur for preparing this wonderful list of songs! I really enjoyed listen
 |3|Strawberry Fields Forever|4|3||
 |4|Penny Lane|4|4||
 |5|Oh, Pretty Woman|3|3||
-|6|Do You Believe in Magic|5|4||
+|6|Do You Believe in Magic|5|4|I love the rhythm|
 |7|Wouldn't it Be Nice|4|5||
 |8|Ruby Tuesday|4|3||
 |9|California Dreamin'|5|4||
 |10|Like a Rolling Stone|2|4||
-|11|Blowin In the Wind||
-|12|(Sittin' On) The Dock of the Bay||
-|13|I Heard it Trough the Grapevine||
-|14|The Thrill is Gone||
-|15|Castles Make of Sand||
-|16|Woodstock||
-|17|The Night They Drove Old Dixie Down||
-|18|Badge||
-|19|Sympathy For The Devil||
-|20|Riders on the Storm||
+|11|Blowin In the Wind|3|4||
+|12|(Sittin' On) The Dock of the Bay|4|4||
+|13|I Heard it Trough the Grapevine|3|3||
+|14|The Thrill is Gone|2|2|Sorry I couldn't get it..
+|15|Castles Make of Sand|4|4||
+|16|Woodstock|5|4||
+|17|The Night They Drove Old Dixie Down|5|4||
+|18|Badge|5|4||
+|19|Sympathy For The Devil|3|2||
+|20|Riders on the Storm|5|5||
 |21|Love Reign O'er Me||
 |22|Dazed and Confused||
 |23|Rock and Roll||
