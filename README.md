@@ -35,16 +35,16 @@ Thank Arthur for preparing this wonderful list of songs! I really enjoyed listen
 |18|Badge|5|4||
 |19|Sympathy For The Devil|3|2||
 |20|Riders on the Storm|5|5||
-|21|Love Reign O'er Me||
-|22|Dazed and Confused||
-|23|Rock and Roll||
-|24|These Eyes||
-|25|Brandy (You're a Fine Girl)||
-|26|Mrs. Robinson||
-|27|Quicksand||
-|28|Changes||
-|29|Baker Street||
-|30|Make Me Smile||
+|21|Love Reign O'er Me|4|5||
+|22|Dazed and Confused|3|3||
+|23|Rock and Roll|2|3||
+|24|These Eyes|4|5|
+|25|Brandy (You're a Fine Girl)|5|5||
+|26|Mrs. Robinson|5|5||
+|27|Quicksand|5|4||
+|28|Changes|4|4||
+|29|Baker Street|5|5||
+|30|Make Me Smile|4|4||
 |31|Born to Run||
 |32|Young Americans||
 |33|I Saw the Light||
