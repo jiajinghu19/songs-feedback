@@ -45,16 +45,16 @@ Thank Arthur for preparing this wonderful list of songs! I really enjoyed listen
 |28|Changes|4|4||
 |29|Baker Street|5|5||
 |30|Make Me Smile|4|4||
-|31|Born to Run||
-|32|Young Americans||
-|33|I Saw the Light||
-|34|Goodbye Yellow Brick Road||
-|35|Live and Let Die||
-|36|Telephone Line||
-|37|Turn to Stone||
-|38|Lake Shore Drive||
-|39|Heart of Gold||
-|40|Sister Golden Hair||
+|31|Born to Run|4|4||
+|32|Young Americans|4|4||
+|33|I Saw the Light|5|5||
+|34|Goodbye Yellow Brick Road|5|5||
+|35|Live and Let Die|5|4||
+|36|Telephone Line|5|5||
+|37|Turn to Stone|4|4||
+|38|Lake Shore Drive|5|5||
+|39|Heart of Gold|5|3||
+|40|Sister Golden Hair|4|4||
 |41|Killer Queen||
 |42|It's a Long Way to the Top (If you Wanna Rock 'N' Roll)||
 |43|We will Rock You||
