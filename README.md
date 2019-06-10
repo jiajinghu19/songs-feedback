@@ -55,14 +55,14 @@ Thank Arthur for preparing this wonderful list of songs! I really enjoyed listen
 |38|Lake Shore Drive|5|5||
 |39|Heart of Gold|5|3||
 |40|Sister Golden Hair|4|4||
-|41|Killer Queen||
-|42|It's a Long Way to the Top (If you Wanna Rock 'N' Roll)||
-|43|We will Rock You||
-|44|We are The Champoins||
-|45|Dream On||
-|46|Scenes from an Italian Restaurant||
-|47|Vienna||
-|48|I Can't Tell You Why||
-|49|Man on teh Corner||
-|50|Time||
-|51|Goodbye Stranger||
+|41|Killer Queen|4|4
+|42|It's a Long Way to the Top (If you Wanna Rock 'N' Roll)|3|3||
+|43|We will Rock You|5|5||
+|44|We are The Champoins|5|5||
+|45|Dream On|5|5||
+|46|Scenes from an Italian Restaurant|3|3||
+|47|Vienna|5|5|Loooove this|
+|48|I Can't Tell You Why|4|4||
+|49|Man on the Corner|5|3||
+|50|Time|4|4||
+|51|Goodbye Stranger|4|5||
